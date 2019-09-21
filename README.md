@@ -1,1 +1,2 @@
 # beego_api
+通过beego快速创建一个Restful风格API项目及API文档自动化
