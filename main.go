@@ -1,7 +1,7 @@
 package main
 
 import (
-	_ "jeedev-api/routers"
+	_ "github.com/xzjxush/beego_api/routers"
 
 	"github.com/astaxie/beego"
 	"github.com/astaxie/beego/orm"

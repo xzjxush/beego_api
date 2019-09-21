@@ -3,7 +3,7 @@ package controllers
 import (
 	"encoding/json"
 	"errors"
-	"jeedev-api/models"
+	"github.com/xzjxush/beego_api/models"
 	"strconv"
 	"strings"
 

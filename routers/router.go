@@ -8,7 +8,7 @@
 package routers
 
 import (
-	"jeedev-api/controllers"
+	"github.com/xzjxush/beego_api/controllers"
 
 	"github.com/astaxie/beego"
 )
